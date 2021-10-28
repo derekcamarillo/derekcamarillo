@@ -2,11 +2,20 @@
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
 
+![](https://img.shields.io/badge/Laravel-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PHP-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/NodeJS-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ReactJs-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VueJS-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Java-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
 <p align="justify">I am a full stack developer with 6 years of coding experience.</p>
 
 <p align="justify">I have been working as a full stack developer since graduation from the university and started as a LAMP stack developer making simple static web pages and expanding my knowledge over time. While working for PixelForce I paved my full stack developer career and demonstrated my knowledge and intelligence building more than 20 websites utilizing various modern web technologies such as MERN stack.</p>
 
-<p align="justify">My goal with coding is to benefit people and their businesses with my tools and applications. I enjoy being able to create something outstanding that implements market needs and trends. However I usually worked on web products, I contributed to ChildGrowthMonitor as their slogan "ZeroHunger by 2030".</p>
+<p align="justify">My goal with coding is to benefit people and their businesses with my tools and applications. I enjoy being able to create something outstanding that implements market needs and trends. However I usually worked on web products, I contributed to ChildGrowthMonitor as their slogan "zero hunger by 2030" attracted.</p>
 
 <p align="justify">Over the last few years, my knowledge and experience with NodeJS, ReactJS have expanded, as has my main project, which currently has nearly 10K live users. I am fluent in using Laravel, NodeJS backend programming, as well as ReactJS and a bit of VueJS frontend development. I'm now learning Python, Django framework to be equipped as full stack developer.</p>
 

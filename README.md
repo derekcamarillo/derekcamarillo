@@ -11,7 +11,7 @@
 
 <p align="justify">I am a full stack developer with 6 years of coding experience.</p>
 
-<p align="justify">I have been working as a full stack developer since graduation from the university and started as a LAMP stack developer making simple static web pages and expanding my knowledge over time. While working for PixelForce I paved my full stack developer career and demonstrated my knowledge and intelligence building more than 20 websites utilizing various modern web technologies such as MERN stack.</p>
+<p align="justify">I have been working as a full stack developer since graduation from the university and started as a LAMP stack developer making simple static web pages and expanding my knowledge over time. While working for Neusoft I paved my full stack developer career and demonstrated my knowledge and intelligence building more than 20 websites utilizing various modern web technologies such as MERN stack.</p>
 
 <p align="justify">My goal with coding is to benefit people and their businesses with my tools and applications. I enjoy being able to create something outstanding that implements market needs and trends. However I usually worked on web products, I contributed to ChildGrowthMonitor as their slogan "zero hunger by 2030" attracted.</p>
 

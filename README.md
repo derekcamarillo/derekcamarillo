@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/NodeJS-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ReactJs-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/npm/types/typescript?label=typescript)
+![](https://img.shields.io/badge/types/typescript?color=2bbc8a&label=typescript&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/VueJS-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
